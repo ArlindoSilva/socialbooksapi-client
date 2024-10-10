@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94e4b98a-1e05-47ac-b186-fd8dc741cbe0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/CaixaEletronico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/CepInvalidoException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/ExemploBreakContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/ExemploDoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/ExemploExcecao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/ExemploFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/ExemploForArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/ExemploWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/FormatadorCepExemplo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/PlanoOperadora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/bin/ResultadoEscolar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/CaixaEletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/CepInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/Desafio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/ExemploBreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/ExemploDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/ExemploExcecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/ExemploFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/ExemploForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/ExemploWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/FormatadorCepExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/PlanoOperadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/RegistroTransacoesbancarias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/ResultadoEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTROLE-FLUXO/src/TesteCodigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/bin/CalculadoraDeMedias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/bin/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/bin/SimulacaoBancaria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/src/CalculadoraDeMedias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEBUGGING/src/SimulacaoBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/bin/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/bin/Contador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/bin/ControleSimplesDeSaques.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/bin/ParametrosInvalidosException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/bin/VerificacaoChequeEspecial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/bin/VerificadorNumeroConta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/src/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/src/ControleSimplesDeSaques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/src/ParametrosInvalidosException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/src/VerificacaoChequeEspecial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioControleFluxo/src/VerificadorNumeroConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-TERMINAL/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-TERMINAL/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-TERMINAL/bin/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-TERMINAL/bin/Calculadora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-TERMINAL/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA-TERMINAL/src/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dio-trilha-java-basico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialbooks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Aplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Aplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Comentario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/Comentario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/DetalhesErro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/DetalhesErro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/Livro.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nChEagdTvHwBAfZXGwbU9E5ziW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Aplicacao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/estudos/socialbooksapi-client/src/main/java/com/algaworks/socialbooks/aplicacao&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\estudos\socialbooksapi-client\src\main\java\com\algaworks\socialbooks\aplicacao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Aplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algaworks.socialbooks.aplicacao.Aplicacao" />
+      <module name="socialbooksapi-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algaworks.socialbooks.client.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aplicacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e4b98a-1e05-47ac-b186-fd8dc741cbe0" name="Changes" comment="" />
+      <created>1728482858246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728482858246</updated>
+    </task>
+    <servers />
+  </component>
+</project>
