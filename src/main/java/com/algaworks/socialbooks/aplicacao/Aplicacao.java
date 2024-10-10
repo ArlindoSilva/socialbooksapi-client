@@ -14,7 +14,7 @@ import java.util.List;
 public class Aplicacao {
 
     public static void main (String[] args) throws ParseException {
-        LivrosClient cliente = new LivrosClient();
+        LivrosClient cliente = new LivrosClient("http://localhost:8080", "algaworks", "s3nh4");
 
         List<Livro> listaLivros = cliente.listar();
 
