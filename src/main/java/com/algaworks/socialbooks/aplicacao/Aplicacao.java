@@ -33,6 +33,8 @@ public class Aplicacao {
         String localizacao = cliente.salvar(livro);
         System.out.println("URI do livro salvo: " + localizacao);
 
+        Livro livroBuscado = cliente.buscar(localizacao);
+        System.out.println("Livro buscado: " + livroBuscado.getNome());
 
     }
 

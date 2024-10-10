@@ -1,5 +1,6 @@
 package com.algaworks.socialbooks.client.domain;
 
+import com.sun.jdi.VoidType;
 import org.springframework.http.RequestEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
@@ -34,6 +35,19 @@ public class LivrosClient {
         ResponseEntity<Void> response = restTemplate.exchange(request, Void.class);
 
         return response.getHeaders().getLocation().toString();
-
     }
+
+    public Livro buscar(String uri){
+        RestTemplate restTemplate = new RestTemplate();
+
+        RequestEntity<Void> request = RequestEntity
+                .get(URI.create(uri))
+                .header("Authorization", "Basic YWxnYXdvcmtzOnMzbmg0")
+                .build();
+
+        ResponseEntity<Livro> response = restTemplate.exchange(request, Livro.class);
+
+        return response.getBody();
+    }
+
 }

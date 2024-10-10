@@ -69,11 +69,9 @@
       <change afterPath="$PROJECT_DIR$/../JAVA-TERMINAL/src/Calculadora.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dio-trilha-java-basico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../socialbooks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Aplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Aplicacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/Autor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Comentario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/Comentario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/DetalhesErro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/DetalhesErro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/aplicacao/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/LivrosClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algaworks/socialbooks/client/domain/LivrosClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
