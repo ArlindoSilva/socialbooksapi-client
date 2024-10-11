@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>::Social Books API</title>
+</head>
+<body>
+    <button class="js-load-books">Listar livros</button>
+    <p>
+        <table class="js-books-table" border="1">
+            <thead>
+                <tr>
+                    <td>ID</td>
+                    <td>Nome</td>
+                    <td>Editora</td>
+                    <td>Publicação</td>
+                    <td>Resumo</td>
+                </tr>
+            </thead>
+            <tbody class="js-books-table-body"></tbody>
+        </table>
+    </p>
+    <script src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
+    <script src="livrosClient.js"></script>
+</body>
+</html>
+
+
+<!--Para o Chrome poder ter acesso aos dados e preencher a tabela,
+    foi preciso adicionar o options(linha 41), e permitir todos os endereços.
+    Além da anotação @CrossOrigin no método listar de LivrosResources
+
+    Isso foi necessário para a api-client poder acessar a api principal  -->
